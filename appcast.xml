@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>Murmur</title>
+    <link>https://github.com/shibilion/murmur-releases</link>
+    <description>Murmur updates</description>
+    <language>en</language>
+    <item>
+      <title>Murmur 0.3.0</title>
+      <pubDate>Fri, 16 Oct 2026 09:55:06 +0000</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>0.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description>&lt;p&gt;Continuing a sentence: if you pause and dictate again, Murmur joins it to the same sentence instead of adding a full stop.&lt;/p&gt;&lt;p&gt;Automatic updates: Murmur now checks for updates daily (menu → Check for Updates…).&lt;/p&gt;&lt;p&gt;Also from v0.2: faster, more accurate dictation with on-device cleanup, a polished first-run setup, and a refreshed menu bar experience.&lt;/p&gt;</description>
+      <enclosure url="https://github.com/shibilion/murmur-releases/releases/download/v0.3.0/Murmur-0.3.0.dmg" length="17661040" sparkle:edSignature="Kc7prJwmlNpuVUr8MQ8Bhfzh+2URJdEX4d1A/fMUeMwm4nfhv3Vdxz5ZCSf2uFUYqrMUUqukxNEUpClLA9duAA==" type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
